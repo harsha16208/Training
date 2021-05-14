@@ -9,4 +9,4 @@ for i in range(int(input())):
                     if primes[k]==True:
                         primes[k]=j
         print(primes.count(num))
-    primes=sieve(int(input())
+    sieve(int(input())
